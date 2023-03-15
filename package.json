@@ -37,7 +37,6 @@
     "!.*"
   ],
   "dependencies": {
-    "@aaashur/eleventy-plugin-classnames": "^0.1.0",
-    "@aaashur/eleventy-plugin-create-element": "^0.1.0"
+    "@aaashur/eleventy-plugin-classnames": "^0.1.0"
   }
 }
