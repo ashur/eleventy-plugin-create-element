@@ -1,6 +1,6 @@
 {
   "name": "@aaashur/eleventy-plugin-create-element",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An Eleventy paired shortcode for building HTML elements, with support for dynamic tag names and attributes",
   "main": ".eleventy.js",
   "scripts": {
